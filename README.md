@@ -20,4 +20,4 @@ Skills: REACT / JS / HTML / CSS / MongoDB / Express.js
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkro96&layout=compact&theme=material-palenight" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=Danielkro96)
+<img aline="center" style="margin: 25px 0 0 0" src="https://komarev.com/ghpvc/?username=Danielkro96" />
