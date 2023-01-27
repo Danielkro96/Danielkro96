@@ -13,3 +13,8 @@ Skills: REACT / JS / HTML / CSS / MongoDB / Express.js
 
 ![GitHub metrics](https://metrics.lecoq.io/Danielkro96)  
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkro96&layout=compact&theme=material-palenight" />
+</a>
+
