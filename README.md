@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Daniel.
+![](https://komarev.com/ghpvc/?username=Danielkro96)
 #### I am a *junior* web developer.
 I`m a self-taught web developer. Enthusiastic about building and creating stuff from scratch and passionate about learning new things.
 
@@ -19,5 +20,3 @@ Skills: REACT / JS / HTML / CSS / MongoDB / Express.js
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkro96&layout=compact&theme=material-palenight" />
 </a>
-
-<img aline="center" style="margin: 25px 0 0 0" src="https://komarev.com/ghpvc/?username=Danielkro96" />
