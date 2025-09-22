@@ -28,7 +28,7 @@ DevOps & Cloud Engineer focused on **AWS**, **Infrastructure as Code**, and **pl
 - **Git-driven workflows:** trunk-based or protected-branch models, PR templates, checks, and promotion gates.
 - **K8s/OpenShift platforms:** build/run images, sealed secrets, namespace templates, ingress, health/readiness, autoscaling.
 - **Observability you can act on:** Splunk + Dynatrace dashboards, alerts, runbooks, and SLOs tied to CI gates.
-- **Data plumbing:** schema/index sanity (SQL & Mongo/DocumentDB), dumps/restores with TLS/CA bundles, least-privilege access.
+- **Data plumbing:** schema (SQL & Mongo/DocumentDB), dumps/restores with TLS/CA bundles, least-privilege access.
 - **Quali Torque:** blueprints for on-demand full-stack environments; inputs/outputs, cost controls, teardown reliability.
 
 ---
@@ -36,7 +36,7 @@ DevOps & Cloud Engineer focused on **AWS**, **Infrastructure as Code**, and **pl
 ## 🧪 Favorite patterns
 
 - **GitOps everywhere:** declarative state + automated reconciliations for infra and apps.
-- **Pipelines as product:** shared libraries, reusable steps, policy-as-code, shift-left security/scans.
+- **Pipelines as product:** shared libraries, reusable steps, policy-as-code.
 - **Cost awareness:** budgets with granular filters, usage tags, and early-warning alerts wired to chat/email.
 - **“Golden” module/library approach:** one place to fix, many places to benefit.
 
