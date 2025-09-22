@@ -1,5 +1,26 @@
 # Daniel Krochero
 
+
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/PaaS-OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Splunk](https://img.shields.io/badge/Observability-Splunk-000000?logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Monitoring-Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+![GitOps](https://img.shields.io/badge/Workflow-GitOps-FF4088?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Selenium](https://img.shields.io/badge/Testing-Selenium-43B02A?logo=selenium&logoColor=white)
+![Quali Torque](https://img.shields.io/badge/Environments-Quali%20Torque-0066CC?logo=qualcomm&logoColor=white)
+
+---
+
+
 DevOps & Cloud Engineer focused on **AWS**, **Infrastructure as Code**, and **platform reliability** in regulated, enterprise environments (banking/fintech). I design, automate, and harden delivery pipelines and data flows end-to-end—from Git workflows and CI/CD to observability, cost, and security.
 
 > “Ship fast, stay secure, measure everything.”
@@ -89,7 +110,7 @@ DevOps & Cloud Engineer focused on **AWS**, **Infrastructure as Code**, and **pl
 
 ---
 
-## 🗂️ Pinned ideas (add repos when public)
+## 🗂️ Pinned ideas
 
 - `terraform-aws-*` — opinionated modules (KMS BYOK, ALB/NLB, Lambda, VPC endpoints, budgets).  
 - `jenkins-shared-lib` — reusable steps (ECR, OPA/Checkov gates, Slack, Git semver).  
