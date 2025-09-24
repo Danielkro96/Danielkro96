@@ -121,13 +121,11 @@ DevOps & Cloud Engineer focused on **AWS**, **Infrastructure as Code**, and **pl
 
 ## 🗣️ Languages
 
-- English, Hebrew (בקרה, תיעוד, והרצה יומיומית)
-
-> תקציר בעברית: אני עוסק ב-DevOps/Cloud עם דגש על Terraform ו-AWS, CI/CD (Jenkins/GitLab), קונטיינרים (Docker, Kubernetes/OpenShift), תצפיות (Splunk/Dynatrace), ו-Data (SQL Server, Mongo/DocumentDB). אוהב אוטומציה מאובטחת, GitOps, ומודולים לשימוש חוזר.
+- English, Hebrew
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's collaborate 
 
 - Open to collaboration on **Terraform modules**, **Jenkins/GitOps templates**, and **AWS Lambda/serverless** patterns.  
 - PRs, issues, and discussions welcome—if it automates or clarifies, I’m in.
